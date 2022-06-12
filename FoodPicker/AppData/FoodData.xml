@@ -1,0 +1,82 @@
+﻿<FoodData>
+    <Food>
+        <Name>misong sushi</Name>
+        <Note>(korean sashimi/ sushi soo good)</Note>
+    </Food>
+    <Food>
+        <Name>tiger sugar</Name>
+        <Note>(bubble tea)</Note>
+    </Food>
+    <Food>
+        <Name>antico pizza</Name>
+        <Note>(italian pizza)</Note>
+    </Food>
+    <Food>
+        <Name>pericana chicken</Name>
+        <Note>(korean fried chicken)</Note>
+    </Food>
+    <Food>
+        <Name>e-gyu</Name>
+        <Note> (korean bba, sushi place)</Note>
+    </Food>
+    <Food>
+        <Name>chuan yu</Name>
+        <Note>(chinese hotpot)</Note>
+    </Food>
+    <Food>
+        <Name>man chun hong</Name>
+        <Note></Note>
+    </Food>
+    <Food>
+        <Name>poetree</Name>
+        <Note>(korean pasta, tonkatsu)</Note>
+    </Food>
+    <Food>
+        <Name>glam</Name>
+        <Note>(korean bar)</Note>
+    </Food>
+    <Food>
+        <Name>cafe amico</Name>
+        <Note>(korean cafe)</Note>
+    </Food>
+    <Food>
+        <Name>kochi maru</Name>
+        <Note>kochi in english, but it is Chinese restaurant</Note>
+    </Food>
+    <Food>
+        <Name>mega mart food court</Name>
+        <Note></Note>
+    </Food>
+    <Food>
+        <Name>yuka</Name>
+        <Note>(korean rice noodle and sushi)</Note>
+    </Food>
+    <Food>
+        <Name>matcha cafe maiko</Name>
+        <Note>( if you like matcha then definitely try it)</Note>
+    </Food>
+    <Food>
+        <Name>samurai ramen</Name>
+        <Note>(ramen place)</Note>
+    </Food>
+    <Food>
+        <Name>gopchang on fire</Name>
+        <Note>(korean beef intestine)</Note>
+    </Food>
+    <Food>
+        <Name>cafe bora </Name>
+        <Note>(korean desert&tonkatsu)</Note>
+    </Food>
+    <Food>
+        <Name>okiboru</Name>
+        <Note>(japanese ramenplace)</Note>
+    </Food>
+    <Food>
+        <Name>craft burger</Name>
+        <Note>(korean burger)</Note>
+    </Food>
+    <Food>
+        <Name>takorea</Name>
+        <Note></Note>
+    </Food>
+</FoodData>
